@@ -1,0 +1,9 @@
+gender,study_time,attendance,previous_score,internet,health,result
+male,2,80,65,yes,good,pass
+female,3,90,78,yes,good,pass
+male,1,60,45,no,poor,fail
+female,4,95,88,yes,good,pass
+male,2,70,55,yes,average,fail
+female,3,85,72,yes,good,pass
+male,1,50,40,no,poor,fail
+female,2,75,60,yes,average,pass
